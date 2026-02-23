@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+venv/
+
+# Secrets / Google OAuth
+credenciais.json
+token.json
+*.secret.json
+
+# Payloads / dados reais
+read_payloads/
+*.json
+
+# Logs
+logs/
+*.log
+*.csv
+
+# VSCode
+.vscode/
